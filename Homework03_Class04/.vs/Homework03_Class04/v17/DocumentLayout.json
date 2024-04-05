@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Homework03_Class04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC327-3691-4AB0-99EB-E07D852A1FA6}|Exercise01\\Exercise01.csproj|c:\\users\\user\\desktop\\homework03_class04\\exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BC327-3691-4AB0-99EB-E07D852A1FA6}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|c:\\users\\user\\desktop\\homework03_class04\\exercise01.domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|solutionrelative:exercise01.domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|c:\\users\\user\\desktop\\homework03_class04\\exercise01.domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|solutionrelative:exercise01.domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|c:\\users\\user\\desktop\\homework03_class04\\exercise01.domain\\models\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|solutionrelative:exercise01.domain\\models\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|c:\\users\\user\\desktop\\homework03_class04\\exercise01.domain\\models\\vehicledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|solutionrelative:exercise01.domain\\models\\vehicledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|c:\\users\\user\\desktop\\homework03_class04\\exercise01.domain\\models\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A4D4F8-5C82-4A67-87CD-36B339242130}|Exercise01.Domain\\Exercise01.Domain.csproj|solutionrelative:exercise01.domain\\models\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\Validator.cs",
+              "RelativeDocumentMoniker": "Exercise01.Domain\\Models\\Validator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\Validator.cs",
+              "RelativeToolTip": "Exercise01.Domain\\Models\\Validator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:11:07.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleDb.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\VehicleDb.cs",
+              "RelativeDocumentMoniker": "Exercise01.Domain\\Models\\VehicleDb.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\VehicleDb.cs",
+              "RelativeToolTip": "Exercise01.Domain\\Models\\VehicleDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:38:54.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\Bike.cs",
+              "RelativeDocumentMoniker": "Exercise01.Domain\\Models\\Bike.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\Bike.cs",
+              "RelativeToolTip": "Exercise01.Domain\\Models\\Bike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:29:59.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Exercise01.Domain\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\Car.cs",
+              "RelativeToolTip": "Exercise01.Domain\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:28:55.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Exercise01.Domain\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01.Domain\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Exercise01.Domain\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:23:50.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework03_Class04\\Exercise01\\Program.cs",
+              "RelativeToolTip": "Exercise01\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:21:53.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Homework02_Class02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise02.domain\\model\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|solutionrelative:exercise02.domain\\model\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise02.domain\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|solutionrelative:exercise02.domain\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise02.domain\\model\\carcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|solutionrelative:exercise02.domain\\model\\carcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise02.domain\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|solutionrelative:exercise02.domain\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F518FC1B-8EBC-45CA-94CC-07077D319C80}|Exercise01\\Exercise01.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F518FC1B-8EBC-45CA-94CC-07077D319C80}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EDB5BA-FC5B-4545-B314-AEECE716AFB9}|Exercise01.Domain\\Exercise01.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise01.domain\\interfaces\\icat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EDB5BA-FC5B-4545-B314-AEECE716AFB9}|Exercise01.Domain\\Exercise01.Domain.csproj|solutionrelative:exercise01.domain\\interfaces\\icat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EDB5BA-FC5B-4545-B314-AEECE716AFB9}|Exercise01.Domain\\Exercise01.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise01.domain\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EDB5BA-FC5B-4545-B314-AEECE716AFB9}|Exercise01.Domain\\Exercise01.Domain.csproj|solutionrelative:exercise01.domain\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EDB5BA-FC5B-4545-B314-AEECE716AFB9}|Exercise01.Domain\\Exercise01.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise01.domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EDB5BA-FC5B-4545-B314-AEECE716AFB9}|Exercise01.Domain\\Exercise01.Domain.csproj|solutionrelative:exercise01.domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise02.domain\\interfaces\\icarwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|solutionrelative:exercise02.domain\\interfaces\\icarwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise02.domain\\interfaces\\iguspump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|solutionrelative:exercise02.domain\\interfaces\\iguspump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|c:\\users\\user\\desktop\\homework02_class02\\exercise02.domain\\interfaces\\irepairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480AB028-6E05-41C4-ACEC-84BA9F5336F1}|Exercise02.Domain\\Exercise02.Domain.csproj|solutionrelative:exercise02.domain\\interfaces\\irepairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise01.Domain\\Interfaces\\ICat.cs",
+              "RelativeDocumentMoniker": "Exercise01.Domain\\Interfaces\\ICat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise01.Domain\\Interfaces\\ICat.cs",
+              "RelativeToolTip": "Exercise01.Domain\\Interfaces\\ICat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:40:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise01\\Program.cs",
+              "RelativeToolTip": "Exercise01\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:29:43.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise01.Domain\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Exercise01.Domain\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise01.Domain\\Models\\Dog.cs",
+              "RelativeToolTip": "Exercise01.Domain\\Models\\Dog.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:29:00.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise01.Domain\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Exercise01.Domain\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise01.Domain\\Models\\Cat.cs",
+              "RelativeToolTip": "Exercise01.Domain\\Models\\Cat.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:27:47.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarCenter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Model\\CarCenter.cs",
+              "RelativeDocumentMoniker": "Exercise02.Domain\\Model\\CarCenter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Model\\CarCenter.cs",
+              "RelativeToolTip": "Exercise02.Domain\\Model\\CarCenter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:41:30.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepairService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Interfaces\\IRepairService.cs",
+              "RelativeDocumentMoniker": "Exercise02.Domain\\Interfaces\\IRepairService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Interfaces\\IRepairService.cs",
+              "RelativeToolTip": "Exercise02.Domain\\Interfaces\\IRepairService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:38:22.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGusPump.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Interfaces\\IGusPump.cs",
+              "RelativeDocumentMoniker": "Exercise02.Domain\\Interfaces\\IGusPump.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Interfaces\\IGusPump.cs",
+              "RelativeToolTip": "Exercise02.Domain\\Interfaces\\IGusPump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:33:10.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarWash.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Interfaces\\ICarWash.cs",
+              "RelativeDocumentMoniker": "Exercise02.Domain\\Interfaces\\ICarWash.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Interfaces\\ICarWash.cs",
+              "RelativeToolTip": "Exercise02.Domain\\Interfaces\\ICarWash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:24:00.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Model\\Truck.cs",
+              "RelativeDocumentMoniker": "Exercise02.Domain\\Model\\Truck.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Model\\Truck.cs",
+              "RelativeToolTip": "Exercise02.Domain\\Model\\Truck.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:21:00.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Model\\Car.cs",
+              "RelativeDocumentMoniker": "Exercise02.Domain\\Model\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Model\\Car.cs",
+              "RelativeToolTip": "Exercise02.Domain\\Model\\Car.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:15:55.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Model\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Exercise02.Domain\\Model\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homework02_Class02\\Exercise02.Domain\\Model\\Vehicle.cs",
+              "RelativeToolTip": "Exercise02.Domain\\Model\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:15:12.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
